@@ -2,6 +2,7 @@
 A 'staging' area for taking notes to add to the announcments for the Dayton Web Developers meetings.  
 
 [Updates from Google](https://developers.google.com/web/updates/)  
+[Microsoft Edge Development](https://developer.microsoft.com/en-us/microsoft-edge/)  
 
 ## News  
 - **July 25, 2019** [PhpStorm 2019.2 Released: PHP 7.4 Typed Properties, Locate Duplicates, RegExps for PHP, EditorConfig, Shell Scripts, and More](https://blog.jetbrains.com/phpstorm/2019/07/phpstorm-2019-2-release/)  
